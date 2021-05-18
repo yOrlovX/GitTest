@@ -22,7 +22,9 @@ var cherryPick = 666
 let niceTry = 12
 
 
-let firstModel = Model()
+var badIdea = false
 
-var cherryPick = 666
+enum Test {
+  case first, second
+}
 
