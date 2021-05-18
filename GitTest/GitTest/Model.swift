@@ -1,0 +1,13 @@
+//
+//  Model.swift
+//  GitTest
+//
+//  Created by Yaroslav Orlov on 18.05.2021.
+//
+
+import Foundation
+
+struct Model {
+  var name = "Model name"
+  var id = 13
+}
