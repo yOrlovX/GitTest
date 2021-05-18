@@ -19,3 +19,7 @@ var cherryPick = 666
 let niceTry = 12
 
 var badIdea = false
+
+enum Test {
+  case first, second
+}
