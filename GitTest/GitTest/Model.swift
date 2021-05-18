@@ -11,3 +11,9 @@ struct Model {
   var name = "Model name"
   var id = 13
 }
+
+
+let firstModel = Model()
+
+var cherryPick = 666
+
