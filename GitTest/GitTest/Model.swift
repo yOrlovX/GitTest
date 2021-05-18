@@ -17,3 +17,6 @@ let firstModel = Model()
 
 var cherryPick = 666
 
+
+let niceTry = 12
+
