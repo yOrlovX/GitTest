@@ -17,3 +17,6 @@ class ViewController: UIViewController {
 
 }
 
+class PowerOfGit {
+  var name = "GitHub"
+}
