@@ -28,3 +28,4 @@ enum Test {
   case first, second
 }
 
+var last = 1
