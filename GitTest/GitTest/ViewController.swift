@@ -20,3 +20,8 @@ class ViewController: UIViewController {
 class PowerOfGit {
   var name = "GitHub"
 }
+
+struct Second {
+  let name: String
+  let percent: Int
+}
