@@ -25,3 +25,7 @@ struct Second {
   let name: String
   let percent: Int
 }
+
+struct Last {
+  var age: Int
+}
